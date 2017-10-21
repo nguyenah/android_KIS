@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kis_b3_v2</string>
+    <string name="Title_education">Choose a education</string>
+    <string-array name="Education">
+        <item>PTIT</item>
+        <item>HUTECH</item>
+        <item>HUI</item>
+        <item>BKA</item>
+    </string-array>
+    <string-array name="Country">
+        <item>VIET NAM</item>
+        <item>CHINA</item>
+        <item>JANPAN</item>
+        <item>AMERICAN</item>
+    </string-array>
+</resources>
